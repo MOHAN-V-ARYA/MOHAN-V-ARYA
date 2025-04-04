@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am learning JAVA FULL-STACK <br>Collabrate with me to explore about Technology and Coding 
+"I am a Full-Stack Developer with a solid understanding of HTML, CSS, JavaScript, and Java. I have a strong foundation in Data Structures and Algorithms (DSA) in Java, and I'm passionate about building responsive web applications and solving complex problems through efficient code."
 
 
 ## 🌐 Socials:
