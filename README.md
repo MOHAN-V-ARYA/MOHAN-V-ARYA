@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I am a Full-Stack Developer with a solid understanding of HTML, CSS, JavaScript, and Java. I have a strong foundation in Data Structures and Algorithms (DSA) in Java, and I'm passionate about building responsive web applications and solving complex problems through efficient code."
+"I’m learning Full-Stack Development and have a good understanding of HTML, CSS, JavaScript, and Java. I’m also building my skills in Data Structures and Algorithms (DSA) using Java. I enjoy creating responsive web pages and solving coding problems to improve my skills."
 
 
 ## 🌐 Socials:
