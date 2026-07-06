@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohan_v_arya_) [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/mohan-v-arya/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohan_v_arya_) 🔗 LinkedIn: https://www.linkedin.com/in/mohan-v-arya/
 https://www.linkedin.com/in/mohan-v-arya/ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MohanvMoha40227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohanvmohanv028@gmail.com) 
 
 # 💻 Tech Stack:
